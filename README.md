@@ -1,2 +1,2 @@
-# Functions-From-Zero
+# Python-Functions-From-Zero-to-Hero
 Active Learning
